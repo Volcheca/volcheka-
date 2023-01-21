@@ -1,0 +1,239 @@
+.container {
+height: 2100px;
+width: 1220px;
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 580px;
+font-size: 35px;
+font-size: 35px;    
+}
+
+
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}
+
+    /*Сметанник Фокина*/
+.cmetanik-fokina {
+position: absolute;
+padding-top: 40px;
+padding-left: 15px;
+}
+
+.text-cmetanik-fokina {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 25px;
+padding-left: 796px;
+
+}
+
+.sub-text-cmetanik-fokina {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 56px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-cmetanik-fokina {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 266px;
+padding-left: 400px;
+}
+
+.sub-cost-cmetanik-fokina {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 266px;
+padding-left: 740px;
+}
+
+.calories-cmetanik-fokina {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 266px;
+padding-left: 970px;
+}
+
+       /*Красный бархат*/
+.krasniy-barhat {
+position: absolute;
+padding-top: 340px;
+padding-left: 15px;
+}
+
+.text-krasniy-barhat {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 340px;
+padding-left: 796px;
+
+}
+
+.sub-text-krasniy-barhat {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 370px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-krasniy-barhat {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 950px;
+padding-left: 400px;
+}
+
+.sub-cost-krasniy-barhat {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 950px;
+padding-left: 740px;
+}
+
+.calories-krasniy-barhat {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 950px;
+padding-left: 970px;
+}
+
+      /*Медовик*/
+.medovik {
+position: absolute;
+padding-top: 1040px;
+padding-left: 15px;
+}
+
+.text-medovik {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1040px;
+padding-left: 796px;
+
+}
+
+.sub-text-medovik {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1070px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-medovik {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 1390px;
+padding-left: 400px;
+}
+
+.sub-cost-medovik {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 1390px;
+padding-left: 740px;
+}
+
+.calories-medovik {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1390px;
+padding-left: 970px;
+}
+
+      /*Морковный*/
+.morkovniy {
+position: absolute;
+padding-top: 1450px;
+padding-left: 15px;
+}
+
+.text-morkovniy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1450px;
+padding-left: 796px;
+
+}
+
+.sub-text-morkovniy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1480px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-morkovniy {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 1950px;
+padding-left: 400px;
+}
+
+.sub-cost-morkovniy {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 1950px;
+padding-left: 740px;
+}
+
+.calories-morkovniy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1950px;
+padding-left: 970px;
+}

@@ -1,0 +1,27 @@
+.container {
+height: 2100px;
+width: 1220px;
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 580px;
+font-size: 35px;
+font-size: 35px;    
+}
+
+
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}

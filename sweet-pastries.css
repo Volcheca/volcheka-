@@ -1,0 +1,340 @@
+.container {
+height: 4150px;
+width: 1220px;
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 580px;
+font-size: 35px;
+font-size: 35px;    
+}
+
+
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1349px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}
+
+       /*Эклер заварной*/
+.ekler-zavarnoy {
+position: absolute;
+padding-top: 40px;
+padding-left: 15px;
+}
+
+.text-ekler-zavarnoy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 25px;
+padding-left: 796px;
+
+}
+
+.sub-text-ekler-zavarnoy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 56px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-ekler-zavarnoy {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 495px;
+padding-left: 400px;
+}
+
+.calories-ekler-zavarnoy {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 495px;
+padding-left: 808px;
+}
+
+    /*Эклер классический*/
+.ekler-classic {
+position: absolute;
+padding-top: 550px;
+padding-left: 15px;
+}
+
+.text-ekler-classic {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 550px;
+padding-left: 796px;
+
+}
+
+.sub-text-ekler-classic {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 580px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-ekler-classic {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 1160px;
+padding-left: 400px;
+}
+
+.calories-ekler-classic {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1160px;
+padding-left: 808px;
+}
+
+      /*Макарунс*/
+.makaroon {
+position: absolute;
+padding-top: 1300px;
+padding-left: 15px;
+}
+
+.text-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1300px;
+padding-left: 796px;
+
+}
+
+.sub-text-vanil-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1330px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.sub-text-chocolate-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1550px;
+padding-left: 400px;
+padding-right: 15px;
+}
+.sub-text-pistachio-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1740px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.sub-text-praline-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 1960px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.sub-text-mango-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 2180px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 2430px;
+padding-left: 400px;
+}
+
+.calories-makaroon {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2430px;
+padding-left: 808px;
+}
+
+   /*Орешки со сгущёнкой*/
+.orehi {
+position: absolute;
+padding-top: 2500px;
+padding-left: 15px;
+}
+
+.text-orehi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 2500px;
+padding-left: 750px;
+
+}
+
+.sub-text-orehi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 2530px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-orehi {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 2720px;
+padding-left: 400px;
+}
+
+.calories-orehi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2720px;
+padding-left: 808px;
+}
+
+    /*Булочкас корицей*/
+.bulochka-koriza {
+position: absolute;
+padding-top: 2800px;
+padding-left: 15px;
+}
+
+.text-bulochka-koriza {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 2800px;
+padding-left: 750px;
+
+}
+
+.sub-text-bulochka-koriza {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 2830px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-bulochka-koriza {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 3350px;
+padding-left: 400px;
+}
+
+.calories-bulochka-koriza {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 3350px;
+padding-left: 808px;
+}
+
+     /*Чизкейк Нью-Йорк*/
+.chizcake {
+position: absolute;
+padding-top: 3430px;
+padding-left: 15px;
+}
+
+.text-chizcake {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 3430px;
+padding-left: 750px;
+
+}
+
+.sub-text-chizcake {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 3460px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-chizcake {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 4080px;
+padding-left: 400px;
+}
+
+.calories-chizcake {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 4080px;
+padding-left: 808px;
+}
